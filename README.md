@@ -11,21 +11,33 @@ Data Source → Kaggle
 
 ## Key Features & Insights
 - KPIs
+  
 44K Cancelled bookings (37%)
+
 75K Not Cancelled bookings (63%)
+
 119K Total transactions
 
 - Filters
+
 Country-wise filter
+
 Month-wise filter
 
 - Visuals Included
+
 Cancellations & Average Daily Rate by Month (Line + Column chart)
+
 Top Cancelled Countries (Pie chart)
+
 Repeated Guests by Country (Bar chart)
+
 Cancellation Rate by Market Segment (Donut chart)
+
 Hotel-wise Cancellations (City vs Resort) (Clustered column chart)
+
 Weekday vs Weekend Cancellations (Bar chart)
+
 Stays in Weeknights vs Weekend Nights (Line chart)
 
 
